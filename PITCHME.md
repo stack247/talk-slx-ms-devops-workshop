@@ -1,7 +1,7 @@
 ---?color=#1b1d1f
 
 ### How we DevOps today?
-@ul[text-06]
+@ul[text-07]
 - 2 Environments: QA and Prod.
 - Azure DevOps (Build, Release, Artifact, Test, etc).
 - SonarQube - code scanner.
@@ -22,7 +22,7 @@
 ---?color=#1b1d1f
 
 ### What do we need help on?
-@ul[text-09]
+@ul[text-07]
 - Getting to where we are going.
 - Integration with Boards (link deployment, bugs, etc).
 - What do we do wrong?
