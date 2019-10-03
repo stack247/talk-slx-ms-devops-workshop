@@ -12,7 +12,7 @@
 ---?color=#1b1d1f
 
 ### Where are we going?
-@ul[text-05]
+@ul[text-07]
 - Continuous deployment.
 - Performance testing (DevOps tool is deprecating).
 - Automation testing.
@@ -22,7 +22,7 @@
 ---?color=#1b1d1f
 
 ### What do we need help on?
-@ul[text-04]
+@ul[text-09]
 - Getting to where we are going.
 - Integration with Boards (link deployment, bugs, etc).
 - What do we do wrong?
