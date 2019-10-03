@@ -1,20 +1,29 @@
----?color=rgba(0, 0, 0, 0.99)
+---?color=#1b1d1f
 
 ### How we DevOps today?
+@ul
+- 2 Environments: QA and Prod.
+- Azure DevOps (Build, Release, Artifact, Test, etc).
+- SonarQube - code scanner.
+- Feature Flag.
+- Moving to ARM template.
+@ulend
 
 ---?color=#1b1d1f
 
 ### Where are we going?
+@ul
+- Continuous deployment.
+- Performance testing (DevOps tool is deprecating).
+- Automation testing.
+- Cloud Agnostic (as much as possible).
+@ulend
 
----
+---?color=#1b1d1f
 
 ### What do we need help on?
-
----
-
-@snap[north span-100]
-#### Fenced Code Block
-@snapend
-
-```
-```
+@ul
+- Getting to where we are going.
+- Integration with Boards (link deployment, bugs, etc).
+- What do we do wrong?
+@ulend
