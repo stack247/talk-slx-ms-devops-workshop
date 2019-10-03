@@ -14,6 +14,7 @@
 ### Where are we going?
 @ul[text-07]
 - Continuous deployment.
+- Continuous monitoring.
 - Performance testing (DevOps tool is deprecating).
 - Automation testing.
 - Cloud Agnostic (as much as possible).
