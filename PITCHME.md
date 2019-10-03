@@ -25,7 +25,7 @@
 ### What do we need help on?
 @ul[text-07]
 - Getting to where we are going.
-- Integration with Boards (link deployment, bugs, etc).
+- Integration with Boards (link deployment, bugs, automatic work item update, etc).
 - What are some of the best practices?
 - What do we do wrong?
 @ulend
