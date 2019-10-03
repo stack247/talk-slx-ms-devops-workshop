@@ -17,6 +17,7 @@
 - Continuous monitoring.
 - Performance testing (DevOps tool is deprecating).
 - Automation testing.
+- Easily roll back.
 - Cloud Agnostic (as much as possible).
 @ulend
 
