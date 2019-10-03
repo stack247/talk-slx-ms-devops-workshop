@@ -25,5 +25,6 @@
 @ul[text-07]
 - Getting to where we are going.
 - Integration with Boards (link deployment, bugs, etc).
+- What are some of the best practices?
 - What do we do wrong?
 @ulend
