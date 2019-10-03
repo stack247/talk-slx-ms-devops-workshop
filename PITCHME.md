@@ -4,7 +4,7 @@
     #### Fenced Code Block
     @snapend
 
-    ```elixir
+    ```
     defmodule GenMetrics.GenStage.Monitor do
         use GenServer
 
