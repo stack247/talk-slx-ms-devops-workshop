@@ -1,8 +1,8 @@
----
+---?color=rgba(0, 0, 0, 0.99)
 
 ### How we DevOps today?
 
----
+---?color=#1b1d1f
 
 ### Where are we going?
 
