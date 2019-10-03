@@ -15,3 +15,6 @@
 @snap[north span-100]
 #### Fenced Code Block
 @snapend
+
+```
+```
